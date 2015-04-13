@@ -4034,6 +4034,11 @@ footer {
     padding: 6px 15px;
   }
 }
+@media (max-width: 360px) {
+  .long-btn {
+    height: 110px;
+  }
+}
 .img-circle {
   margin-top: 6px;
 }
