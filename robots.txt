@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /impressum.html
+Disallow: /impressum/impressum.html
+Disallow: /impressum
+
+User-agent: Googlebot-Image
+Disallow: /

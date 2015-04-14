@@ -4028,9 +4028,8 @@ footer {
 .long-btn {
   white-space: normal;
 }
-@media (max-width: 767px) {
+@media (max-width: 520px) {
   .long-btn {
-    height: 80px;
     padding: 6px 15px;
   }
 }
